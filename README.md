@@ -1,3 +1,3 @@
-# msm-gui
+# Rails Template
 
-Target: https://msm-gui.matchthetarget.com/
+Template for rails projects.
